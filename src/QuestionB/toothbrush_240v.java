@@ -1,5 +1,7 @@
 package QuestionB;
 
+import javax.swing.*;
+
 public class toothbrush_240v implements FunctionAPI{
     @Override
     public void workSomething(int id) {
